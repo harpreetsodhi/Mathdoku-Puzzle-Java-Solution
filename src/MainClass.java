@@ -7,7 +7,7 @@ public class MainClass {
 	public static void main(String[] args) throws IOException {
 		Mathdoku md = new Mathdoku();
 		
-		// TODO Assign the text file path to inputfilepath eg. C:\\Users\\Harpreet\\Desktop\\mathdoku.txt
+		// TODO Assign the text file path to inputfilepath eg. C:\\Users\\Harpreet\\Desktop\\test1.txt
 		
 		String inputfilepath = "";
 		
