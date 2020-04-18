@@ -1,4 +1,4 @@
-# Mathdoku-Kenken-Calcudoku-puzzle-solver
+# Mathdoku-Kenken-Calcudoku-puzzle-solver using Java
 
 To see what the problem is, visit http://www.mathdoku.com/
 The problem description can be found in the "Mathdoku Problem Statement.pdf" file.
