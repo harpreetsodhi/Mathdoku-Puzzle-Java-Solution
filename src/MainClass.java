@@ -9,7 +9,7 @@ public class MainClass {
 		
 		// TODO Assign the text file path to inputfilepath eg. C:\\Users\\Harpreet\\Desktop\\mathdoku.txt
 		
-		String inputfilepath = "C:\\Users\\Harpreet\\Desktop\\mathdoku.txt";
+		String inputfilepath = "";
 		
 		BufferedReader br = new BufferedReader(new FileReader(inputfilepath));
 		
